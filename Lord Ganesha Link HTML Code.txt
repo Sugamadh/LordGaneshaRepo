@@ -1,0 +1,22 @@
+<a href="https://www.amazon.ca/gp/product/B08QNHG4RX?tag=suga0f8-20" target="_blank">
+  <img src="https://m.media-amazon.com/images/I/81M6rX-z4QL._AC_SX569_.jpg"
+       alt="Golden Lord Ganesha Wall Hanging" 
+       width="300" height="300"/>
+</a>
+
+
+<a href="https://www.amazon.ca/gp/product/B08QNHG4RX?tag=suga0f8-20" target="_blank">
+  <img src="https://m.media-amazon.com/images/I/81M6rX-z4QL._AC_SX569_.jpg" 
+       alt="Golden Lord Ganesha Wall Hanging" width="20" height="24" />
+</a>
+
+
+
+<a href="https://www.amazon.ca/gp/product/B08QNHG4RX?tag=suga0f8-20" target="_blank">
+  <img src="https://m.media-amazon.com/images/I/81M6rX-z4QL._AC_SX569_.jpg"
+       alt="Golden Lord Ganesha Wall Hanging" 
+       width="300" height="300"/>
+</a>
+
+<li><strong>Lord Ganesha</strong> 
+-<a href="https://www.amazon.ca/gp/product/B08QNHG4RX?tag=suga0f8-20" target="_blank"> Golden Lord Ganesha Wall Hanging</a></li>
